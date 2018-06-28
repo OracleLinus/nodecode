@@ -11,7 +11,7 @@ for (var i = 0; i < 10; i++) {
 
 
 // Does a GET request to ip.jsontest.com
-function runGetRequest(var i) {
+function runGetRequest(i) {
     
     //sample URL.
     var url = "http://129.157.179.180:3000/fighters/45/" + i + "/yellow/linusNode";
